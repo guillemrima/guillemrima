@@ -1,4 +1,4 @@
-###👋 Hello there! Welcome to my Github profile!
+👋 Hello there! Welcome to my Github profile!
 
 - 👨‍💻 My name is Guillem and I am a Front-end developer. I love working with Javascript, Typescript, and React to create beautiful and responsive web applications.
 
