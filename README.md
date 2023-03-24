@@ -1,6 +1,6 @@
 👋 Hello there! Welcome to my Github profile!
 
-- 👨‍💻 My name is Guillem and I am a Front-end developer. I love working with Javascript, Typescript, and React to create beautiful and responsive web applications.
+- 👨‍💻 My name is Guillem and I am a Front-end developer. I love working with Javascript, Typescript, SASS and React to create beautiful and responsive web applications.
 
 - 🔍 Currently, I am in search of new employment opportunities, and I am excited to collaborate on projects that challenge me and help me grow as a developer.
 
